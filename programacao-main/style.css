@@ -1,0 +1,48 @@
+*{
+margin:0;
+padding: 0;
+}
+
+body{
+
+}
+.cabecalho {
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: space-around;
+    padding: 24px 0;
+    margin: 0 16px;
+
+}
+
+#logoalura {
+    width: 20;
+
+}
+
+.lista-itens{
+    display: inline-block;
+    margin: 0 16px;
+    padding: 24px 0;
+    font-size: 24px;
+    
+}
+
+#programa {
+     width: 40%;
+}
+
+.escola{ 
+    background-image:linear-grandient (#383838 , #00c0eb) ;
+    color:aliceblue;
+    display: flex;
+
+}
+ 
+.escolaconteudo{ 
+    lagura: 35% ;
+    exibição:flexivel;
+    justify-content: 
+
+}
